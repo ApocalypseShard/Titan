@@ -1,0 +1,11 @@
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\MainWindow.baml
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\App.g.cs
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\WPF_FBConnect_Proto_MarkupCompile.cache
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\WPF_FBConnect_Proto.g.resources
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\WPF_FBConnect_Proto.Properties.Resources.resources
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\WPF_FBConnect_Proto.csproj.GenerateResource.Cache
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\bin\Debug\WPF_FBConnect_Proto.exe
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\bin\Debug\WPF_FBConnect_Proto.pdb
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\WPF_FBConnect_Proto.exe
+C:\Users\Karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Proto\WPF_FBConnect_Proto\obj\x86\Debug\WPF_FBConnect_Proto.pdb

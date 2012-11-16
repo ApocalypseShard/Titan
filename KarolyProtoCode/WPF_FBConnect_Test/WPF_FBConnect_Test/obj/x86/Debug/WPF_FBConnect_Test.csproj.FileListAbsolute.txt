@@ -1,0 +1,11 @@
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\MainWindow.baml
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\MainWindow.g.cs
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\App.g.cs
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\WPF_FBConnect_Test_MarkupCompile.cache
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\WPF_FBConnect_Test.g.resources
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\WPF_FBConnect_Test.Properties.Resources.resources
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\WPF_FBConnect_Test.csproj.GenerateResource.Cache
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\bin\Debug\WPF_FBConnect_Test.exe
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\bin\Debug\WPF_FBConnect_Test.pdb
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\WPF_FBConnect_Test.exe
+c:\users\karcsi\documents\visual studio 2010\Projects\WPF_FBConnect_Test\WPF_FBConnect_Test\obj\x86\Debug\WPF_FBConnect_Test.pdb
